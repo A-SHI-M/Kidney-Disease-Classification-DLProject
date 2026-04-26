@@ -86,7 +86,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 
+    - Save the URI: 993249607252.dkr.ecr.eu-north-1.amazonaws.com/kidney
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -120,7 +120,7 @@ open up you local host and port
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION =
+    AWS_REGION = eu-north-1
 
     AWS_ECR_LOGIN_URI = 
 
