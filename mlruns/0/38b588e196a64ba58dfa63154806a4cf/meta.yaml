@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ashim/Desktop/Kidney-Disease-Classification-DLProject/mlruns/0/38b588e196a64ba58dfa63154806a4cf/artifacts
+end_time: 1777167189631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38b588e196a64ba58dfa63154806a4cf
+run_name: unleashed-calf-286
+run_uuid: 38b588e196a64ba58dfa63154806a4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777166928064
+status: 3
+tags: []
+user_id: Ashim
